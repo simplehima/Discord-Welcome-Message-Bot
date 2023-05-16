@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+opencv-python
+Pillow
+requests
+Flask
+discord.py
+imageio
